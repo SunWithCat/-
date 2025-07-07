@@ -28,6 +28,7 @@
 *   **数据持久化:** [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 *   **数据库:** [H2](https://www.h2database.com/html/main.html) (开发环境), [MySQL](https://www.mysql.com/)
 *   **工具:** [Lombok](https://projectlombok.org/)
+*   **数据：** librarysystem.sql
 
 ## 运行项目
 
@@ -40,6 +41,8 @@
 ### 后端
 
 1.  使用 IDE (如 IntelliJ IDEA) 打开 `backend/demo` 项目
-2.  运行 `DemoApplication.java`
+2.  使用librarysystem.sql创建数据库
+3.  启动 Spring Boot 应用
+
 
 
